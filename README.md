@@ -7,10 +7,12 @@
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallowkiet&layout=compact&theme=tokyonight" />
 </span>
----
+
+<hr>
+
 <h3 align="center"> My Tech Stack: </h3>
 
----
+<hr>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,7 +20,7 @@
   </a>
 </p>
 
----
+<hr>
 
 <!--
 **michallowkiet/michallowkiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
