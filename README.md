@@ -1,4 +1,5 @@
 ## Hi i'm Michał Łowkiet
+---
 
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=michallowkiet&show_icons=true&theme=tokyonight" />
@@ -7,9 +8,11 @@
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michallowkiet&layout=compact&theme=tokyonight" />
 </span>
+---
 
-### My Tech Stack:
 <p align="center">
+### My Tech Stack:
+---
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,react,nodejs" />
   </a>
