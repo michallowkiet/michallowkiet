@@ -1,6 +1,6 @@
 ## Hi i'm Michał Łowkiet
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michallowkiet&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=tokyonight)
 <!--
 **michallowkiet/michallowkiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
